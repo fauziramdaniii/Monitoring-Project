@@ -1,5 +1,5 @@
 cara menjalankan
-1. git clone project
+1. git clone project ke https://github.com/fauziramdaniii/Monitoring-Project.git
 2. buat database db_project_fauzi
 3. copy file .envexample dan ubah yang copy jadi (.env)
 4. ubah databasenya menjadi db_project_fauzi
